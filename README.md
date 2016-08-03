@@ -17,5 +17,4 @@
 * [List of Resources for Recruiting & Retaining Women in Tech](https://medium.com/chaya-cooper/resources-for-recruiting-retaining-women-in-tech-d845495b87f9#.xcqh2v1rh)
 
 ## Tools
-* [5 Ways to Practice for a Coding Interview][Remote Interview](https://www.remoteinterview.io/)
-*
+* [5 Ways to Practice for a Coding Interview](https://www.remoteinterview.io/)
