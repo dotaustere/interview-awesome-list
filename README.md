@@ -10,6 +10,7 @@
   * [JS: Interview Algorithm](http://www.thatjsdude.com/interview/js1.html)
   * [JS: Basics and Tricky Questions](http://www.thatjsdude.com/interview/js2.html)
   * [JS: Dom related](http://www.thatjsdude.com/interview/dom.html)
+* [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.3flow6dzl)
 
 ## Method & Tips
 * [5 Ways to Practice for a Coding Interview](https://www.codeschool.com/blog/2015/12/01/5-ways-practice-coding-interview/)
