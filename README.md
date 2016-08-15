@@ -11,6 +11,8 @@
   * [JS: Basics and Tricky Questions](http://www.thatjsdude.com/interview/js2.html)
   * [JS: Dom related](http://www.thatjsdude.com/interview/dom.html)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.3flow6dzl)
+* [How To Interview a Front End Developer](https://medium.com/front-end-developers/how-to-interview-a-front-end-developer-5f9e3de4e6a5#.63ufgkjn0)
+* [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9#.krb4cc8yk)
 
 ## Method & Tips
 * [5 Ways to Practice for a Coding Interview](https://www.codeschool.com/blog/2015/12/01/5-ways-practice-coding-interview/)
