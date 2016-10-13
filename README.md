@@ -14,6 +14,7 @@
 * [How To Interview a Front End Developer](https://medium.com/front-end-developers/how-to-interview-a-front-end-developer-5f9e3de4e6a5#.63ufgkjn0)
 * [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9#.krb4cc8yk)
 * [Top 22.5 HTML interview questions and answers for freshers pdf](http://codesparta.com/2015/11/13/top-22-5-html-interview-questions-and-answers-for-freshers-pdf/)
+* [Interview Questions, Quizzes, Online Tests and Mock Tests](http://www.tutorialspoint.com/questions_and_answers.htm)
 
 ## Method & Tips
 * [5 Ways to Practice for a Coding Interview](https://www.codeschool.com/blog/2015/12/01/5-ways-practice-coding-interview/)
